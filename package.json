@@ -17,6 +17,21 @@
   },
   "homepage": "https://github.com/JijoCeetus/angular1.5seed#readme",
   "dependencies": {
-    "angular": "^1.6.0"    
+    "angular": "^1.6.0"
+  },
+  "devDependencies": {
+    "browserify": "^13.1.1",
+    "grunt": "^1.0.1",
+    "grunt-browserify": "^5.0.0",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-ts": "^6.0.0-beta.3",
+    "grunt-tslint": "^4.0.0",
+    "load-grunt-config": "^0.19.2",
+    "load-grunt-tasks": "^3.5.2",
+    "tsd": "^0.6.5",
+    "tsify": "^2.0.7",
+    "tslint": "^4.1.1",
+    "typescript": "^2.1.4"
   }
 }

@@ -1,0 +1,19 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "angular1.5 starter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JijoCeetus/angular1.5seed.git"
+  },
+  "author": "jijoc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JijoCeetus/angular1.5seed/issues"
+  },
+  "homepage": "https://github.com/JijoCeetus/angular1.5seed#readme"
+}

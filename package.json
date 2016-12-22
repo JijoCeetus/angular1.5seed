@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JijoCeetus/angular1.5seed/issues"
   },
-  "homepage": "https://github.com/JijoCeetus/angular1.5seed#readme"
+  "homepage": "https://github.com/JijoCeetus/angular1.5seed#readme",
+  "dependencies": {
+    "angular": "^1.6.0"    
+  }
 }
